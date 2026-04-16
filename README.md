@@ -4,16 +4,21 @@
 - 🔭 I’m currently working for **One World Studio**
 - 📫 How to reach me **eselfin31@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/eselfin31" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
-</a>
-<a href="https://discord.gg/5FCvEkjjhM" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
-</a>
-</p>
+<h3 align="left">Connect with me</h3>
 
+<p align="left">
+  <a href="https://dev.to/eselfin31">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+
+  <a href="https://discord.gg/5FCvEkjjhM">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
+  <a href="mailto:eselfin31@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 
 <table>
